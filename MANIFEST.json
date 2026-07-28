@@ -1,0 +1,16 @@
+{
+  ".gitignore": 55,
+  "LICENSE": 1210,
+  "MODEL_CARD.md": 2635,
+  "NOTICE": 313,
+  "README.md": 4422,
+  "checkpoints/kjv_exact_state_200s.pt": 314661,
+  "data/kjv.txt": 4638061,
+  "exact_state_carry/__init__.py": 106,
+  "exact_state_carry/__pycache__/__init__.cpython-313.pyc": 268,
+  "exact_state_carry/__pycache__/model.cpython-313.pyc": 5999,
+  "exact_state_carry/model.py": 3733,
+  "pyproject.toml": 447,
+  "scripts/delayed_recall.py": 9620,
+  "scripts/train_kjv.py": 11651
+}

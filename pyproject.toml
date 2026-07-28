@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "exact-state-carry"
+version = "0.1.0"
+description = "KV-free geometric recurrent state propagation with direct cosine prediction."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+authors = [{ name = "Public Domain Contributors" }]
+dependencies = ["torch>=2.0"]
+
+[tool.setuptools]
+packages = ["exact_state_carry"]

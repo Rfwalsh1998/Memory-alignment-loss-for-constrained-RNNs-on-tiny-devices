@@ -1,0 +1,11 @@
+NOTICE
+
+Software and included checkpoint:
+Released under the Unlicense/public-domain dedication in LICENSE.
+
+Corpus:
+data/kjv.txt is the KJV Pure Cambridge Edition text supplied for this
+experiment. Its header describes the text as public-domain material and
+credits BibleProtector.com.
+
+No warranty is provided.
